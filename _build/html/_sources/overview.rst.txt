@@ -1,0 +1,15 @@
+Tracking the metadata.
+=====================
+After clicking the metadata audit app in the apps menu,It will direct you to its landing page that will display the categories of the metadata that one wants to track.
+
+For instance one chooses the data element option,the page will show;
+ -The data elements,the last time they were edited and a view history button for each.
+So to track the changes to a particular data element,select view history;
+
+This will display :
+The timeline for that individual element.
+
+From the time it was created, to the recent changes made and the deleted metadata.
+
+It will also show the user who made the changes and the data contained in that metadata.
+

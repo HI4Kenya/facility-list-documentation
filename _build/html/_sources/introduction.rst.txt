@@ -1,0 +1,16 @@
+INTRODUCTION
+============
+Background
+===========
+
+The metadata changelog and monitoring app is intended to provide certain information on DHIS2
+activities to only permitted users by tracking the edits performed on the metadata so as to know
+the type of changes made to avoid adverse effects and hold the users accountable. This helps by
+by creating a sense of responsibility and for members of the MOH to make informed decisions based on the data collected and curated.
+
+Problem Statement
+=================
+Ideal:  An application that would be able to keep track of all the metadata changes
+Reality: The DHIS2 system only keeps track of the changes last edited, and provides a simple text report of the usage analytics. 
+Consequences: It is not possible to hold users accountable for any changes in the DHIS2 system that might be of adverse effect to other data.
+Proposal: Have an application that will be able to keep track of the major metadata changes, and visually represent how the DHIS2 system is put to use.
