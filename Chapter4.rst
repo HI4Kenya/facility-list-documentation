@@ -14,11 +14,42 @@ The target users are DHIS2 users.
 4.1.2 Search facility
 -----------------------------------
 
+.. search facility in KMFL:
+.. figure::  _static/pics/searchfacilities.png
+   :align:   center
+
+-----------------------------------------------
+
+.. search facility in KMFL:
+  .. figure::  _static/pics/results.png
+   :align:   center
+
+   ------------------------------------
+.. search facility in KMFL:
+.. figure::  _static/pics/searchexample.png
+   :align:   center 
+
+
 4.1.3 Facility Resolve
 ----------------------------------
+.. search facility in KMFL:
+.. figure::  _static/pics/resolution.png
+   :align:   center
 
 4.1.4 Updating,Droping and Adding Facility
 --------------------------------------------
+.. search facility in KMFL:
+.. figure::  _static/pics/addingfacility.png
+   :align:   center
+
+----------------------------------------------------
+
+.. search facility in KMFL:
+.. figure::  _static/pics/updating.png
+   :align:   center 
+
+--------------------------------------------------------
+
 
 4.2 Testing
 ----------------------

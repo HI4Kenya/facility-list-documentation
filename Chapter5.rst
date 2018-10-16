@@ -9,15 +9,12 @@ Discussion and Conclusion
 -------------------------
 After completion of the system, the following was achieved as set out in the objectives of the project.
 
-1.
+1.Ability to search in both KMFL and DHIS2
 
-2.
+2.Able to show facilities resolutions in both KMFL AND DHIS2
 
-3.
+3.Ability to resolve facilities resolutions in DHIS2 by adding and updating a facilities.
 
-4.
-
-5.
 
 5.3 challenges
 ----------------------

@@ -10,14 +10,13 @@ Welcome to Afya 360 documentation
    :maxdepth: 2
    :caption: Contents:
    
-   Team
+   
    Chapter1
    Chapter2
    Chapter3
    Chapter4
    Chapter5
    Appendix
-   Sample
+   Team
    
-
 
